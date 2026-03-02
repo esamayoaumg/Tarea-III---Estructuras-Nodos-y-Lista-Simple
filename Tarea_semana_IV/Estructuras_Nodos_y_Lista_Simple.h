@@ -1,0 +1,13 @@
+//
+// Created by geo71 on 1/03/2026.
+//
+
+#ifndef TAREA_SEMANA_IV_ESTRUCTURAS_NODOS_Y_LISTA_SIMPLE_H
+#define TAREA_SEMANA_IV_ESTRUCTURAS_NODOS_Y_LISTA_SIMPLE_H
+
+
+class Estructuras_Nodos_y_Lista_Simple {
+};
+
+
+#endif //TAREA_SEMANA_IV_ESTRUCTURAS_NODOS_Y_LISTA_SIMPLE_H
